@@ -7,15 +7,14 @@ output:
   keep_md: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # R markdown
 ## by *Fowzia Ahmed*
 This is my first **markdown** file
 `
-```{r}
+
+```r
 rinee <- c(1,2,3)
 ```
 
